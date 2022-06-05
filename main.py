@@ -34,5 +34,4 @@ def winner(user, CPU):
     else:
         return False
 
-#if _name_ == '_main_':
 play()
